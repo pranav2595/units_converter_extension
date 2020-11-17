@@ -29,9 +29,8 @@ The following table compares the time taken by participants with and without usi
 As shown in the observation table above, it takes much less time to convert the units when using the extension than without using it. This is mostly because without extension, the users have to open a new tab, and search it on google, and write down the converted numbers, whereas when using the extension, the user simply has to put their mouse on top. 
 
 
-![Image of Setup Graph](https://github.com/pranav2595/units_converter_extension/blob/master/setup.png)
+<img src="https://github.com/pranav2595/units_converter_extension/blob/master/setup.png" width="250" height="250"/>
 According to the graph above, it clearly shows that this Units Converter Extension is easy to setup with/without prior knowledge of this project. 
-
 
 
 ## Conclusion
