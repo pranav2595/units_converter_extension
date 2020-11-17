@@ -26,6 +26,11 @@ The following table compares the time taken by participants with and without usi
 
 ![Observation Table](https://github.com/pranav2595/units_converter_extension/blob/master/observation_table.PNG)
 
+As shown in the observation table above, it takes much less time to convert the units when using the extension than without using it. This is mostly because without extension, the users have to open a new tab, and search it on google, and write down the converted numbers, whereas when using the extension, the user simply has to put their mouse on top. 
+
+
+![Observation Table](https://github.com/pranav2595/units_converter_extension/blob/master/Setup Time.PNG)
+
 
 
 ## Conclusion
